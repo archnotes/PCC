@@ -80,7 +80,8 @@ like_list 返回当前对象的赞用户uid列表，只返回前 20 个用户即
 ```{
 "oid":1,
 "count":1024
-}```
+}
+```
 
 ##### action=list&cursor=xxx&page_size=xxx&is_friend=1|0
 
